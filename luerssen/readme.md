@@ -2,7 +2,7 @@
 ## 3. DER SATZSTREIFEN UND DER LESEKAMM
 Die Zweiteilung des Monotypesystems in Setz- und Gießvorgang bringt es mit sich, daß auftretende Fehler beim Guß und Ausschlußdifferenzen aufs genaueste geprüft werden müssen; nur so kann die Fehlerquelle auf Setz- oder Gießmaschine lokalisiert und dementsprechend beseitigt werden. Tauchen Gießfehler auf, so bedient sich der Gießer des Lesekammes zur Kontrolle des Satzstreifens und des Matrizenlageplans der jeweils gebrauchten Schriftserie. Bild 120 zeigt den Lesekamm mit der Einteilung der
 
-[Bild 120](./img/img_120.png)
+[Bild 120](https://cdn.rawgit.com/signalwerk/monotype-caster/122778e3/luerssen/img/img_120.png)
 
 Bild 120. Der Lesekamm mit gewöhnlicher Justifikation
 
@@ -17,7 +17,7 @@ Auch beim Guß von Defekten in Zeilen oder Haufen benutzt der Gießer den Leseka
 [Seite 290]
 
 
-[Bild 121](./img/img_121.png)
+[Bild 121](https://cdn.rawgit.com/signalwerk/monotype-caster/122778e3/luerssen/img/img_121.png)
 
 
 Bild 121. Der Lesekamm mit neuer Justifikation
@@ -34,7 +34,7 @@ Bei Verwendung von Schriftserien nach den Normalmatrizenlageplänen 3 und 5 sind
 
 ## 10. TABELLE FÜR BUCHSTABENDICKTEN IN ENGLISCHEM ZOLL
 
-[Tabelle Seite 285](./img/page_285.png)
+[Tabelle Seite 285](https://cdn.rawgit.com/signalwerk/monotype-caster/122778e3/luerssen/img/page_285.png)
 
 
 Quelle: Die Monotype. Fachbuch für Taster und Gießer von Emil Lürßen unter Mitarbeit von Alfred Paulherr. Leipzig. Fachbuchverlag, 1954
