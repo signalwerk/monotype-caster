@@ -34,7 +34,7 @@ Bei Verwendung von Schriftserien nach den Normalmatrizenlageplänen 3 und 5 sind
 
 ## 10. TABELLE FÜR BUCHSTABENDICKTEN IN ENGLISCHEM ZOLL
 
-![Tabelle Seite 285](https://cdn.rawgit.com/signalwerk/monotype-caster/122778e3/luerssen/img/page_285.png)
+![Tabelle Seite 285](https://cdn.rawgit.com/signalwerk/monotype-caster/35483b9f/luerssen/img/page_285.png)
 
 
 Quelle: Die Monotype. Fachbuch für Taster und Gießer von Emil Lürßen unter Mitarbeit von Alfred Paulherr. Leipzig. Fachbuchverlag, 1954
